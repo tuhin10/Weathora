@@ -64,7 +64,6 @@ public class HomeActivity extends AppCompatActivity implements HomeMVP.HomeView 
     TextView mTodaySunsetTv;
     @BindView(R.id.progressBar)
     ProgressBar mLoadingDataPB;
-
     private HomeMVP.HomePresenter mHomePresenter;
 
     @Override
@@ -180,7 +179,7 @@ public class HomeActivity extends AppCompatActivity implements HomeMVP.HomeView 
                 showErrorMessageView(status.getStatusMessage());
             } else if (resultCode == RESULT_CANCELED) {
                 // The user canceled the operation.
-                showErrorMessageView(getString(R.string.action_search_cancelled));
+                //showErrorMessageView(getString(R.string.action_search_cancelled));
             }
         } else if (requestCode == SETTINGS_ACTIVITY_REQUEST_CODE){
             if (resultCode == RESULT_OK) {
