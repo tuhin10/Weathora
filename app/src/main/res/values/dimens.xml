@@ -1,0 +1,4 @@
+<resources>
+    <dimen name="weather_icon_height">70dp</dimen>
+    <dimen name="weather_icon_width">100dp</dimen>
+</resources>

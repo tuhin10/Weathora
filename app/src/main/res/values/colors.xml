@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2196F3</color>
+    <color name="colorPrimaryDark">#1E88E5</color>
+    <color name="colorAccent">#ffbf07</color>
+    <color name="white">#ffffff</color>
+    <color name="text_light">#ffffff</color>
+    <color name="about_text_color">#34424b</color>
+    <color name="progressbar_tint">#A6ffffff</color>
+    <color name="gradient_start">#40000000</color>
+    <color name="black_semi_transparent">#10000000</color>
+</resources>
