@@ -10,13 +10,13 @@ Android SDK 16+
 
 ## Screenshots
 
-| Home Cel     | Search     |
-| :-------------: | :-------------: | 
-| ![Home Cel](screenshot/1.png) | ![Search](screenshot/2.png) |
+  | Home Celsius   | Search     |
+  | :-------------:|:-------------: | 
+  | ![ ](screenshots/1.png) | ![ ](screenshots/2.png) |
 
-| Home Fer     | About     |
+| Home Fahrenheit     | About     |
 | :-------------: | :-------------: | 
-| ![Home Cel](screenshot/3.png) | ![About](screenshot/4.png) |
+| ![ ](screenshots/3.png) | ![ ](screenshots/4.png) |
 
 
 ## Libraries
@@ -29,7 +29,10 @@ Usage of libraries:<br/>
    * [Retrofit2](https://github.com/square/retrofit) - for HTTP requests<br/> 
    * [Leak canary](https://github.com/square/leakcanary) - for memory leak detection<br/> 
 
-
+## TODO
+  * AddDagger2 for dependency injection
+  * Improve overall UI as per material design guideline
+  * Improve weather icon quality, icon http://openweathermap.org/img/w/ api provides is of very low quality.
 
 ## Bug report?
 
