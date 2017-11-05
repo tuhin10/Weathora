@@ -10,7 +10,7 @@ Android SDK 16+
 
 ## Screenshots
 
-  | Home Celsius   | Search     |
+  | Home Celsius   | Search    |
   | :-------------:|:-------------: | 
   | ![ ](screenshots/1.png) | ![ ](screenshots/2.png) |
 
@@ -30,7 +30,7 @@ Usage of libraries:<br/>
    * [Leak canary](https://github.com/square/leakcanary) - for memory leak detection<br/> 
 
 ## TODO
-  * AddDagger2 for dependency injection
+  * Add Dagger2 for dependency injection
   * Improve overall UI as per material design guideline
   * Improve weather icon quality, icon http://openweathermap.org/img/w/ api provides is of very low quality.
 
