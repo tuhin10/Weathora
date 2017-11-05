@@ -1,5 +1,5 @@
 # Weathora
-
+![Logo](screenshots/icon.png)    
 Weathora is a native android weather app for US cities. It lets users select any US city and shows the current weather details. 
 It uses google places api to fecth list of US cities and openweathermap.org API to fetch the weather details of a given city. 
 It also auto loads the last city searched upon app launch.
